@@ -1,0 +1,17 @@
+"mmg_accessories:1",
+"mmg_Beltsackpacks:1",
+"mmg_belts:1",
+"mmg_boots:1",
+"mmg_helmets:1",
+"mmg_pants:1",
+"mmg_patches:1",
+"mmg_pouches:1",
+"mmg_shirts:1",
+"mmg_vests:1"
+
+
+
+
+
+
+
